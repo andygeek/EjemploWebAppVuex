@@ -1,5 +1,15 @@
-# Ejemplo WebApp Vuex
+# WebApp Vuex
 
-Para este proyecto en Vuejs usamos Vuex para la perfecta comunicación entre componentes. Puedes probar la aplicación web en [EjemploWebAppVuex](https://andygeek.github.io/EjemploWebAppVuex/).
+![](https://img.shields.io/badge/Made%20with-Vue-success)
+
+This is a project that use Vuex for store datas and using that datas in all its components. For to see this application that's click in following next link. [WebAppVuex](https://andygeek.github.io/EjemploWebAppVuex/).
 
 ![](https://imgur.com/PfGARrN.gif)
+
+## Starting 🚀
+
+This project do not require preconfiguration for to start.
+
+------
+
+⌨️ with ❤️ for [AndyGeek](https://github.com/andygeek) 😊
